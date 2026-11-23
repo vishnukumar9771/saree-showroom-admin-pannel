@@ -1,0 +1,6 @@
+{
+  "name": "AARANYA — The House of Indian Silks",
+  "description": "Where Heritage Becomes Art — Luxury Indian silk saree storefront and Atelier Silk Administration portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
